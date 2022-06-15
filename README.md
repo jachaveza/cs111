@@ -1,6 +1,6 @@
 # CS111: Programación de Videojuegos
 
-## Introducción a la librería $\texttt{curses}$
+## Introducción a la librería "curses"
 
 Instalar la librería desde el terminal:
 
